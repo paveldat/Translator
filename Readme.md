@@ -1,4 +1,4 @@
-# Photo background removal
+# Translator
 
 ## How to install
 1. Clone this repository on your computer
