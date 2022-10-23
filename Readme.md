@@ -24,7 +24,7 @@
 'Swahili', 'Swedish', 'Tajik', 'Tamil', 'Telugu', 'Thai', 'Turkish', 'Ukrainian', 'Urdu', 'Uyghur', 'Uzbek',
 'Vietnamese', 'Welsh', 'Xhosa', 'Yiddish', 'Yoruba', 'Zulu'
 ```
-## Example
+## Usage
 <img src="https://github.com/paveldat/Translator/blob/main/img/1.png">
 
 <img src="https://github.com/paveldat/Translator/blob/main/img/2.png">
